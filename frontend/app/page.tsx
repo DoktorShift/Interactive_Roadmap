@@ -16,9 +16,9 @@ export default function Page() {
   const initialFeatures: Feature[] = [
     {
       id: 1,
-      name: "Nostr Wallet Connect",
+      name: "Use this Roadmap and Contribute back",
       description:
-        "Connect your wallet to Apps. 'Connections' will allow seamless interaction with the Nostr network, enabling users to bring their wallet into several Applications.",
+        "Consider Donating or Contributing to this Project if you like it. The LNURL is real ;)",
       status: "Progress",
       upvotes: 0,
       donationTotal: 0,
